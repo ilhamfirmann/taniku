@@ -1,0 +1,116 @@
+
+<h2>Laporan Anggota</h2>
+
+<table border="1">
+	<tr>
+       	<th>No</th>
+ 		<th>NIM</th>
+		<th>Nama</th>
+		<th>Tempat lahir</th>
+ 		<th>Tanggal Lahir</th>
+		<th>Jenis Kelamin</th>
+		<th>Prodi</th>
+		<th>Aksi</th>
+	</tr>
+
+	
+	<tr>
+
+	<td>1</td>
+	<td>167006001</td>
+	<td>Rachma Verina Rochim</td>
+	<td>Banjar</td>
+	<td>1998-06-30</td>
+	<td>P</td>
+	<td>7A</td>
+	<td>
+  	</tr>
+
+
+	
+	<tr>
+
+	<td>2</td>
+	<td>167006031</td>
+	<td>Sarimin</td>
+	<td>Kuningan</td>
+	<td>1998-05-04</td>
+	<td>P</td>
+	<td>7A</td>
+	<td>
+  	</tr>
+
+
+	
+	<tr>
+
+	<td>3</td>
+	<td>167006032</td>
+	<td>M. Farhan Mughits</td>
+	<td>Kuningan</td>
+	<td>1998-10-26</td>
+	<td>L</td>
+	<td>9C</td>
+	<td>
+  	</tr>
+
+
+	
+	<tr>
+
+	<td>4</td>
+	<td>167006033</td>
+	<td>George Borlin</td>
+	<td>Austin</td>
+	<td>1999-04-07</td>
+	<td>L</td>
+	<td>8A</td>
+	<td>
+  	</tr>
+
+
+	
+	<tr>
+
+	<td>5</td>
+	<td>167006035</td>
+	<td>Reynaldi Akbar Maulana</td>
+	<td>Kuningan</td>
+	<td>1998-03-05</td>
+	<td>L</td>
+	<td>9B</td>
+	<td>
+  	</tr>
+
+
+	
+	<tr>
+
+	<td>6</td>
+	<td>167006075</td>
+	<td>asd</td>
+	<td>qwe</td>
+	<td>2018-05-01</td>
+	<td>L</td>
+	<td>7A</td>
+	<td>
+  	</tr>
+
+
+	
+	<tr>
+
+	<td>7</td>
+	<td>167011002</td>
+	<td>Meiullawati Nurdiana</td>
+	<td>Cirebon</td>
+	<td>1998-07-01</td>
+	<td>P</td>
+	<td>8B</td>
+	<td>
+  	</tr>
+
+
+		
+
+</table>
